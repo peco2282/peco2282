@@ -1,10 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-# My Qiita data
+### My Qiita data
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/peco_2282/posts.svg)](http://qiita.com/peco_2282)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/peco_2282/contributions.svg)](http://qiita.com/peco_2282)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/peco_2282/followers.svg)](http://qiita.com/peco_2282)
 
+### My Github data
 ![peco2282's Github stats](https://github-readme-stats.vercel.app/api?username=peco2282&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave&count_private=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DamageCalc)](https://github.com/peco2282/DamageCalc)
