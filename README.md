@@ -8,6 +8,7 @@
 ### My Github data
 ![peco2282's Github stats](https://github-readme-stats.vercel.app/api?username=peco2282&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave&count_private=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=attack_bot)](https://github.com/peco2282/attack_bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DamageCalc)](https://github.com/peco2282/DamageCalc)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=dispander)](https://github.com/peco2282/dispander)
