@@ -7,6 +7,13 @@
 
 ### My Github data
 ![peco2282's Github stats](https://github-readme-stats.vercel.app/api?username=peco2282&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave&count_private=true)
+<p align="center">
+    Visitor count<br>
+  <img src="https://profile-counter.glitch.me/peco2282/count.svg" />
+</p>
+
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f1cec817-1d37-4994-a419-fa4c2fbc3ff7/9e516e8a-e361-4562-a758-de2d7d1c9f75.png" /></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=disnowflake)](https://github.com/peco2282/disnowflake)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DamageCalc)](https://github.com/peco2282/DamageCalc)
@@ -15,12 +22,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peco2282)](https://github.com/peco2282/peco2282)
 
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f1cec817-1d37-4994-a419-fa4c2fbc3ff7/9e516e8a-e361-4562-a758-de2d7d1c9f75.png" /></a> -->
 
-<p align="center">
+<!-- <p align="center">
     Visitor count<br>
   <img src="https://profile-counter.glitch.me/peco2282/count.svg" />
 </p>
-
+ -->
 
 <!--
 **peco2282/peco2282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
