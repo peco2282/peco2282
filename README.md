@@ -12,8 +12,9 @@
   <img src="https://profile-counter.glitch.me/peco2282/count.svg" />
 </p>
 
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f1cec817-1d37-4994-a419-fa4c2fbc3ff7/9e516e8a-e361-4562-a758-de2d7d1c9f75.png" /></a>
+<a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@f1cec817-1d37-4994-a419-fa4c2fbc3ff7/28c50d3c-aec0-42f3-a23f-06420e114b4b.png" />
+</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=MessageExpander)](https://github.com/peco2282/MessageExpander)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DamageCalc)](https://github.com/peco2282/DamageCalc)
