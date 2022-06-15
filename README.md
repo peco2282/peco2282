@@ -19,7 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=MessageExpander)](https://github.com/peco2282/MessageExpander)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DamageCalc)](https://github.com/peco2282/DamageCalc)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=dispander)](https://github.com/peco2282/dispander)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DESGenerator)](https://github.com/peco2282/DESGenerator)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peco2282)](https://github.com/peco2282/peco2282)
 
