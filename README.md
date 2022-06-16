@@ -16,6 +16,24 @@
     <img src="https://wakatime.com/share/@f1cec817-1d37-4994-a419-fa4c2fbc3ff7/28c50d3c-aec0-42f3-a23f-06420e114b4b.png" />
 </a>
 
+## Unity-Bot
+DiscordのUnityスクリプトリファレンスのリンクを返すBotを作ってみました。
+
+Bot名Unity Bot
+
+Prefix: `,`
+
+ヘルプコマンド:  ,help
+
+導入URL https://discord.com/api/oauth2/authorize?client_id=974141480199405578&permissions=328565091408&scope=bot
+
+指定したキーワードの含まれるUnityの日本語版スクリプトリファレンスのリンクを返します。
+
+[twitter](https://twitter.com/peco_2282/status/1534753249630519299)
+
+
+---
+### 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=MessageExpander)](https://github.com/peco2282/MessageExpander)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DamageCalc)](https://github.com/peco2282/DamageCalc)
 
