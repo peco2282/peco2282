@@ -12,7 +12,7 @@
   <img src="https://profile-counter.glitch.me/peco2282/count.svg" />
 </p>
 
-<a href="https://wakatime.com">
+<a href="https://wakatime.com", target="_blank">
     <img src="https://wakatime.com/share/@f1cec817-1d37-4994-a419-fa4c2fbc3ff7/28c50d3c-aec0-42f3-a23f-06420e114b4b.png" />
 </a>
 
@@ -35,7 +35,7 @@ Prefix: `,`
 ---
 ### 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=MessageExpander)](https://github.com/peco2282/MessageExpander)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DamageCalc)](https://github.com/peco2282/DamageCalc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DamageCalc)](https://github.com/peco2282/slack.py)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DESGenerator)](https://github.com/peco2282/DESGenerator)
 
