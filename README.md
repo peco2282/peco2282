@@ -35,7 +35,8 @@ Prefix: `,`
 ---
 ### 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=MessageExpander)](https://github.com/peco2282/MessageExpander)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DamageCalc)](https://github.com/peco2282/slack.py)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=slack.py)](https://github.com/peco2282/slack.py)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DESGenerator)](https://github.com/peco2282/DESGenerator)
 
