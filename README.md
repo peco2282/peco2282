@@ -12,7 +12,7 @@
   <img src="https://profile-counter.glitch.me/peco2282/count.svg" />
 </p>
 
-<a href="https://wakatime.com", target="_blank">
+<a href="https://wakatime.com">
     <img src="https://wakatime.com/share/@f1cec817-1d37-4994-a419-fa4c2fbc3ff7/28c50d3c-aec0-42f3-a23f-06420e114b4b.png" />
 </a>
 
