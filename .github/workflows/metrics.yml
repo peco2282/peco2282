@@ -32,16 +32,8 @@ jobs:
           plugin_languages_recent_load: 100
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          plugin_achievements_ignored: member, maintainer, developer, scripter, packager, explorer, infographist, hatter
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 100
-#          plugin_activity_visibility: all
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_habits: yes
           plugin_habits_from: 100
           plugin_habits_facts: yes
