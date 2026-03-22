@@ -43,16 +43,13 @@
 ## 📊 My Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=peco2282&theme=synthwave" alt="peco2282's trophies" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=peco2282&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave" alt="peco2282's Github stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peco2282&layout=compact&theme=synthwave" alt="Top Langs" height="180px" />
+  <img src="github-metrics.svg" alt="Metrics" width="100%" />
 </div>
 
-### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=peco2282&theme=synthwave" alt="peco2282's trophies" /><br>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peco2282&theme=react-dark" width="100%" />
-</p>
 
 ### 📝 Qiita Data
 
@@ -62,9 +59,7 @@
 
 ### ⌛ WakaTime
 
-<a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@f1cec817-1d37-4994-a419-fa4c2fbc3ff7/28c50d3c-aec0-42f3-a23f-06420e114b4b.png" />
-</a>
+<img src="github-metrics-wakatime.svg" alt="WakaTime Metrics" width="100%" />
 
 ---
 
@@ -88,8 +83,6 @@ DiscordでUnityスクリプトリファレンスのリンクを返すBotです�
 
 ## ⚡ Recent Focus: DevCore
 
-最近力を入れている公開ライブラリです。
-
 <div align="center">
   <a href="https://github.com/peco2282/DevCore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=DevCore&theme=synthwave" /></a>
 </div>
@@ -97,8 +90,6 @@ DiscordでUnityスクリプトリファレンスのリンクを返すBotです�
 ---
 
 ## 🏗 Past Focus: slack.py
-
-数年前に非常に力を入れていたプロジェクトです。
 
 <div align="center">
   <a href="https://github.com/peco2282/slack.py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=peco2282&repo=slack.py&theme=synthwave" /></a>
