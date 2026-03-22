@@ -34,7 +34,7 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, jupyter notebook, shaderlab
+            gnuplot, jupyter notebook, shaderlab, asp.net
           plugin_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -55,6 +55,11 @@ jobs:
           plugin_notable_types: commit
 
           plugins_errors_fatal: no
+
+          repositories_skipped: |
+            peco2282/Unity*
+            peco2282/DotEater
+            peco2282/Flappybird
 
       - name: Wakatime metrics
         uses: lowlighter/metrics@latest
