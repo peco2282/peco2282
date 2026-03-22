@@ -1,11 +1,12 @@
 # Hi there 👋 I'm peco2282
 
 [//]: # (<p align="center">)
+
 [//]: # (  <img src="https://profile-counter.glitch.me/peco2282/count.svg" alt="Visitor Count" />)
+
 [//]: # (</p>)
 
 ![](https://komarev.com/ghpvc/?username=peco2282&label=PROFILE+VIEWS)
-
 
 ## 🚀 About Me
 
@@ -49,7 +50,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=peco2282&theme=synthwave" alt="peco2282's trophies" /><br>
 </div>
-
 
 ### 📝 Qiita Data
 
