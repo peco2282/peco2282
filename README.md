@@ -1,10 +1,11 @@
 # Hi there 👋 I'm peco2282
 
-<p align="center">
-![](https://komarev.com/ghpvc/?username=peco2282&label=PROFILE+VIEWS)
-</p>
-
+[//]: # (<p align="center">)
 [//]: # (  <img src="https://profile-counter.glitch.me/peco2282/count.svg" alt="Visitor Count" />)
+[//]: # (</p>)
+
+![](https://komarev.com/ghpvc/?username=peco2282&label=PROFILE+VIEWS)
+
 
 ## 🚀 About Me
 
