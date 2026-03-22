@@ -31,10 +31,25 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 100
           plugin_languages_sections: most-used
+          plugin_languages_details: percentage, lines
           plugin_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_lines: yes
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 20
+
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit
 
           plugins_errors_fatal: no
 
