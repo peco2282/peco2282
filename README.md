@@ -46,10 +46,11 @@
 <div align="center">
   <img src="github-metrics.svg" alt="Metrics" width="100%" />
 </div>
-
+<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=peco2282&theme=synthwave" alt="peco2282's trophies" /><br>
 </div>
+-->
 
 ### 📝 Qiita Data
 
